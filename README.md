@@ -60,7 +60,7 @@ cp -r ../HumanML3D/HumanML3D ./dataset/HumanML3D
 ```
 **KIT**-Download from [HumanML3D](https://github.com/EricGuo5513/HumanML3D.git), then place result in `./dataset/KIT-ML`
 
-#### 
+```
 
 article{wang2026temporalconsistency,
       title={Temporal Consistency-Aware Text-to-Motion Generation}, 
