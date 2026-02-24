@@ -1,4 +1,4 @@
-## Temporal Consistency-Aware Text-to-Motion Generation
+## [Temporal Consistency-Aware Text-to-Motion Generation](https://arxiv.org/html/2602.18057v1)
 
 This repository offers the official Pytorch code for this paper.
 If you have any questions, feel free to contact Hongsong Wang (hongsongwang@seu.edu.cn).
@@ -62,4 +62,9 @@ cp -r ../HumanML3D/HumanML3D ./dataset/HumanML3D
 
 #### 
 
-
+article{wang2026temporalconsistency,
+      title={Temporal Consistency-Aware Text-to-Motion Generation}, 
+      author={Hongsong Wang and Wenjing Yan and Qiuxia Lai and Xin Geng},
+      year={2026},
+      journal={Visual Intelligence}
+}
