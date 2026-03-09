@@ -1,4 +1,4 @@
-## [Temporal Consistency-Aware Text-to-Motion Generation](https://arxiv.org/html/2602.18057v1)
+## [Temporal Consistency-Aware Text-to-Motion Generation](https://link.springer.com/article/10.1007/s44267-026-00110-8), [arXiv](https://arxiv.org/html/2602.18057v1)
 
 This repository offers the official Pytorch code for this paper.
 If you have any questions, feel free to contact Hongsong Wang (hongsongwang@seu.edu.cn).
@@ -69,5 +69,7 @@ article{wang2026temporalconsistency,
       title={Temporal Consistency-Aware Text-to-Motion Generation}, 
       author={Hongsong Wang and Wenjing Yan and Qiuxia Lai and Xin Geng},
       year={2026},
-      journal={Visual Intelligence}
+      journal={Visual Intelligence},
+      SN= {2731-9008},
+      doi={10.1007/s44267-026-00110-8}
 }
